@@ -9,6 +9,6 @@ public class TiposPrimitivos {
       String sexo = "M";
       int idade = 32;
       String estadoCivil= "Casado";
-      System.err.println( "O trabalhador "+ noma + "do sexo " + sexo + " idade " + idade + ", estado civil "+ estadoCivil + " salario "+ salario + " encontra-se empregado neste estabelecimento.");
+      System.out.println( "O trabalhador "+ noma + "do sexo " + sexo + " idade " + idade + ", estado civil "+ estadoCivil + " salario "+ salario + " encontra-se empregado neste estabelecimento.");
     }
 }
