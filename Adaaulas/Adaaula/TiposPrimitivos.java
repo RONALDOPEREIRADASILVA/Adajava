@@ -1,3 +1,4 @@
+package Adaaulas.Adaaula;
 public class TiposPrimitivos {
     public static void main(String[] args) {
       String noma= "Ronaldo";

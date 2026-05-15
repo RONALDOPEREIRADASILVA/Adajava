@@ -1,3 +1,4 @@
+package Adaaulas.Adaaula;
 import java.util.Scanner;
 
 public class ProgramaImpaPar {

@@ -1,3 +1,4 @@
+package Adaaulas.Adaaula;
 /* Operadores Lógicos e Relacionais.
 Nesta aula foi sobre operadores lógicos e relacionais.
 como pratica umas linhas de códigos abaixo.

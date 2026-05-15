@@ -1,3 +1,4 @@
+package Adaaulas.Adaaula;
 public class EstruturaRepeticao {
     public static void main(String[]args){
         int cc =0;//contador iniciando em 0
