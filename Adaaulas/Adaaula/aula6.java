@@ -11,9 +11,16 @@ public class aula6 {
         x = 4;
         y = 7;
         z = 1;
+        
+        String formaDePagamento = "à vista";
+        double valor = 200;
 
         boolean r ;
         r = (x< y && y ==z)?true:false;
+        
+        //Verificações
         System.out.println(r);
+
+        System.out.println(formaDePagamento == "à vista" && valor == 200);
     }
 }
