@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 import java.time.Year; // Biblioteca para pegar o ano atual automaticamente
 
 public class aula4 {
-    public static void main(String[]args){
+    void main(){
         int anoAtual = Year.now().getValue();//peguei o ano atual do sistema (para a conta ser real)
 
         String entrada = JOptionPane.showInputDialog("Em que ano você nasceu?");//abri a janela para o usuário digitar 
