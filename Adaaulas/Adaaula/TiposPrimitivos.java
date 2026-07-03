@@ -1,6 +1,7 @@
 package Adaaulas.Adaaula;
 public class TiposPrimitivos {
     public static void main(String[] args) {
+      /*Tipos primitivos:int, double, float, char, byte, short long , boolean */ 
       String noma= "Ronaldo";
       String endereco = "Av.Brasil número:58 primavera";
       String telefone = "(98)98607-8013";
