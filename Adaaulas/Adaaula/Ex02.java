@@ -33,7 +33,10 @@ public class Ex02 {
                 break;
             case 7:
                 System.out.println("Sabado");
-                break;                        
+                break; 
+            default:
+                System.out.println("Opção inválida"); 
+               break;                            
         }
     }
 }
