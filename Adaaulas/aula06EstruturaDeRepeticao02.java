@@ -1,3 +1,4 @@
+package Adaaulas;
 
 /*
 Imprima todos os números de 0 a 100000

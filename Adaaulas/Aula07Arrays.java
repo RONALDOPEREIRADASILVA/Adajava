@@ -1,3 +1,4 @@
+package Adaaulas;
 /* 
  * RESUMO DA AULA - ARRAYS (VETORES):
  * 

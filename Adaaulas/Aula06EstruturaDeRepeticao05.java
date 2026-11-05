@@ -1,3 +1,4 @@
+package Adaaulas;
 public class Aula06EstruturaDeRepeticao05 {
     public static void main (String []args){
         double valorTotal = 30000;
